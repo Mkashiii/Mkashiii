@@ -1,23 +1,73 @@
-<div align="center">
-<img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=Let's%20Make%20It%20Work!&style=style=flat&color=8A2BE2" alt="Star Badge"/>
-
-<br/>
-  
-<p align="center">
-  Interstellar dreamer, coding through the cosmos. 🌌 #FutureCoder #SciFiEnthusiast
-</p>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/ayeshanweerasuriya">
-    <img src="https://skillicons.dev/icons?i=js,html,css,androidstudio,c,cs,discord,figma,git,github,ai,java,kotlin,linkedin,mysql,nodejs,ps,php,postman,pr,py,react,stackoverflow,twitter,visualstudio,vscode,codepen,blender,vue,wordpress" />
-  </a>
-</div>
-
-
-<br>
+<h1 align="center">Hi 👋, I'm Muhammad Kashif</h1>
+<h3 align="center">🚀 Full Stack Developer | Python Automation | AI Integrations</h3>
 
 <p align="center">
-<a href="https://github.com/ayeshanweerasuriya"><img src="https://streak-stats.demolab.com?user=ayeshanweerasuriya&theme=highcontrast&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D&card_width=835" alt="GitHub Streak" /></a>
+Passionate about building automation tools, AI powered apps, and scalable web solutions.
 </p>
+
+---
+
+### 📫 Contact Me
+
+- 📧 Email: **m.kashiact@gmail.com**
+- 💼 Open for freelance & collaboration
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+<a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=github" /></a>
+</p>
+
+---
+
+# ⚡ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=javascript" />
+<img src="https://skillicons.dev/icons?i=typescript" />
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=nextjs" />
+<img src="https://skillicons.dev/icons?i=nodejs" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=tailwind" />
+<img src="https://skillicons.dev/icons?i=docker" />
+<img src="https://skillicons.dev/icons?i=aws" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=figma" />
+<img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight" height="170"/>
+
+</p>
+
+---
+
+# 🚀 What I Do
+
+✔ Build **Python automation tools**  
+✔ Create **AI powered applications (GPT, APIs)**  
+✔ Develop **Full Stack Web Apps**  
+✔ Build **Web Scrapers & Bots**  
+✔ Automate **Business workflows**
+
+---
+
+⭐ **Always learning, always building.**
